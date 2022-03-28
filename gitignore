@@ -1,0 +1,7 @@
+# Mac OS X
+.DS_Store
+
+# Data files
+use cases/*/data/raw/*
+use cases/*/data/interim/*
+
