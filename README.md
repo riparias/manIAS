@@ -6,4 +6,4 @@ Development of a community driven data exchange format for sharing data about th
 
 ## Contribute
 
-Questions? Suggestions? Use cases? Contribute to the development of manIAS by watching the [repository](https://github.com/riparias/manIAS) and participating in [issue discussions](https://github.com/riparias/manIAS/issues).
+Questions? Suggestions? **Use cases**? Contribute to the development of manIAS by watching the [repository](https://github.com/riparias/manIAS) and participating in [issue discussions](https://github.com/riparias/manIAS/issues).
