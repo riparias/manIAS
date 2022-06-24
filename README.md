@@ -13,7 +13,7 @@ The model foresees **metadata** about the IAS management project and five tables
 - **Taxa** table containing the targeted IAS taxa as well the by catch.
 - **Actions** table containing the performed management actions ...
 - **Evaluations** table containing observations assessing the status of invasion of a certain location. Based on evaluations, actions can be planned and assigned to field executors. We decided to use the term _evaluations_ instead of simply observations, as it fits better the jargon used within the IAS management community. As shown in the figure above, evaluations are linked to a location, not a specific action. This approach has the advantage to better track the IAS management progress over time.
-- Locations table containing the locations where both actions and evaluations take place. Locations can be points, lines or polygons.
+- **Locations** table containing the locations where both actions and evaluations take place. Locations can be points, lines or polygons.
 
 ## Proposed data exchange format
 
