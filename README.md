@@ -6,7 +6,7 @@ Development of a community driven data exchange format for sharing data about th
 
 ## Proposed table scheme
 
-![data schema](https://user-images.githubusercontent.com/33662631/175322984-6409370d-d576-4016-bda5-8a1200338a55.png)
+![data schema](https://user-images.githubusercontent.com/33662631/196200549-36be0149-6007-44c6-803b-07f8052ab862.jpg)
 
 The model foresees **metadata** about the IAS management project and five tables:
 - **Actors** table about the people involved in the project, making a distinction between field managers and field executors.
